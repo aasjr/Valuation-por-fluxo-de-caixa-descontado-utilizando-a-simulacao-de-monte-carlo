@@ -42,7 +42,7 @@ Segundo Póvoa (2012, p. 96) *“O valor de uma companhia equivale ao somatório
 
 Para avaliar uma empresa através do método de fluxo de caixa descontado, são trazidos a valor presente os fluxos de caixa projetados para a companhia no futuro, alguns anos à frente e na perpetuidade, descontados pelo custo de capital. A dificuldade do método reside na projeção adequada desses fluxos de caixa e na determinação da taxa de desconto utilizada. (PÓVOA 2012, p. 99)
 
-$$Valor Presente = \sum_{t=1}^{n} \frac{FC_{t}}{(1+r)^{t}}\  + \frac{FC_{n}*(1+g_{p})}{(r_{p}-g_{p})*(1+r)^{n}}\ $$
+$$Valor Presente = \sum_{t=1}^{n} \frac{FC_{t}}{(1+r)^{t}}  + \frac{FC_{n}*(1+g_{p})}{(r_{p}-g_{p})*(1+r)^{n}} $$
 
 
 $FC_{t}$ - Fluxo de Caixa no ano t
