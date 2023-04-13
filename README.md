@@ -229,4 +229,4 @@ PÓVOA, Alexandre. **Valuation: como precificar ações.** Rio de Janeiro: Elsev
 
 SAMANEZ, Carlos Patrício. **Engenharia Econômica.** São Paulo: Pearson Prentice Hall, 2009.
 
-Marcos Oliveira, Luiz Neto. **Simulação de Monte Carlo e Valuation: uma abordagem estocástica.**REGE - Revista de Gestão, Vol.19,2012,https://doi.org/10.5700/rege474.
+Marcos Oliveira, Luiz Neto. **Simulação de Monte Carlo e Valuation: uma abordagem estocástica** REGE - Revista de Gestão, Vol.19,2012,https://doi.org/10.5700/rege474.
