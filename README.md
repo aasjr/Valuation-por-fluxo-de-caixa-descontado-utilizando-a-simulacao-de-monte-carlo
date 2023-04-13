@@ -1,26 +1,4 @@
-# Valuation_SMC
-# *Valuation* pelo método de fluxo de caixa descontado utilizando a simulação de monte carlo :
-
-
-
-1 - Introdução
-
-2 - Modelagem
-
-  2.1 – Processo de avaliação pelo fluxo de caixa descontado:
-
-  2.2 – Modelagem do Fluxo de caixa livre.
-
-  2.3 – Modelagem do custo do capital.
-
-  2.4 – Modelagem dos parâmetros para perpetuidade.
-
-
-3 - Aplicação e Resultados
-
-4 - Conclusão
-
-5 - Referências
+# *Valuation* por fluxo de caixa descontado utilizando a simulação de monte carlo :
 
 ## Resumo
 
@@ -230,3 +208,9 @@ PÓVOA, Alexandre. **Valuation: como precificar ações.** Rio de Janeiro: Elsev
 SAMANEZ, Carlos Patrício. **Engenharia Econômica.** São Paulo: Pearson Prentice Hall, 2009.
 
 Marcos Oliveira, Luiz Neto. **Simulação de Monte Carlo e Valuation: uma abordagem estocástica** REGE - Revista de Gestão, Vol.19,2012,https://doi.org/10.5700/rege474.
+
+---
+
+Aluno: Alvaro Augusto Silva Junior
+
+Matrícula: 211.101.129
